@@ -1,0 +1,12 @@
+{
+    "name": "name",
+    "repository": "https://github.com/nhjp0/nginx",
+    "stack": "container",
+	"env": {
+      "APP_NAME" : {
+        "description": "Name",
+                "value" : "",
+        "required" : true
+        }	
+    } 
+}
