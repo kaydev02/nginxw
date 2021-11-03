@@ -1,6 +1,6 @@
 {
-    "name": "name",
-    "repository": "https://github.com/nhjp0/nginx",
+    "name": "1st app",
+    "repository": "https://github.com/kaydev02/nginxw",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
